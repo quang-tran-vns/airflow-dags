@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 def say_hello():
-    print("Hello from Airflow LocalExecutor!")
+    print("Hello from Minh Quang!")
 
 
 with DAG(
