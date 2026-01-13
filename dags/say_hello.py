@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 def say_hello():
-    print("Hello from Minh Quang!")
+    print("Hello from Tran Minh Quang!")
 
 
 with DAG(
